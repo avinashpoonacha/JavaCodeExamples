@@ -7,6 +7,7 @@ public class LinkedListImpl {
 	//	int data =  ....
 	//	LinkedElement<Integer> head = reference to head 
 	//	head = insertFront(head,data);
+		System.out.println("this is a sample Linked List Impl");
 	}
 	
 	
